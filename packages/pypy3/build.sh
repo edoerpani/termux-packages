@@ -136,7 +136,6 @@ PATH=$TERMUX_PREFIX/bin
 PREFIX=$TERMUX_PREFIX
 TMPDIR=$TERMUX_PREFIX/tmp
 TERM=$TERM
-https_proxy=$https_proxy
 TZ=UTC"
 
 	__pypy3_run_on_host="
